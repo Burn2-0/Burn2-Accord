@@ -2,7 +2,7 @@
 
 Where everyone speaks Pig Latin and is required to wear a toga that they didn't plan for to discus rules and other such fun stuff.
 
-![The Accord by Talia Tokugawa & Dall-e](https://github.com/Burn2-0/Burn2-Accord/blob/main/The%020Accord.png)
+![The Accord by Talia Tokugawa & Dall-e](https://github.com/Burn2-0/Burn2-Accord/blob/main/The_Accord.png)
 
 ## CORE
 
