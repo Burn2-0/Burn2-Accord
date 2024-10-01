@@ -69,7 +69,7 @@ in each case, in accordance with this Privacy Policy.
 To the extent that you access the Website, we will collect your Data automatically, for example:
 
 * we automatically collect some information about your visit to the Website. This information helps us to make improvements to Website content and navigation, and includes your IP address, the date, times and frequency with which you access the Website and the way you use and interact with its content.
-* we automatically collect some information about your visits to the Map areas within Second Life. This information allow for us to better understand in world usage of resources 
+* we automatically collect some information about your visits to the Map areas within Second Life. This information allow for us to better understand in world usage of resources.
 
 ### Keeping Data Secure
 
@@ -78,8 +78,8 @@ We will use technical and organisational measures to safeguard your Data, for ex
 * access to your account is controlled by a password and a user name that is unique to you.
 * we store your Data on secure servers.
 
-Technical and organisational measures include measures to deal with any suspected data breach. If you suspect any misuse or loss or unauthorised access to your Data, please let us know immediately by contacting us via this e-mail address: data@burn2.org.
-If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit www.getsafeonline.org. Get Safe Online is supported by HM Government and leading businesses.
+Technical and organisational measures include measures to deal with any suspected data breach. If you suspect any misuse or loss or unauthorised access to your Data, please let us know immediately by contacting us via this e-mail address: <data@burn2.org>.
+If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit <www.getsafeonline.org>. Get Safe Online is supported by HM Government and leading businesses.
 
 ### Data Retention
 
@@ -98,7 +98,7 @@ You have the following rights in relation to your Data:
 * Right to object - the right to object to our use of your Data including where we use it for our legitimate interests.
 
 To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: .
-If you are not satisfied with the way a complaint you make in relation to your Data is handled by us, you may be able to refer your complaint to the relevant data protection authority. For the UK, this is the Information Commissioner's Office (ICO). The ICO's contact details can be found on their website at https://ico.org.uk/.
+If you are not satisfied with the way a complaint you make in relation to your Data is handled by us, you may be able to refer your complaint to the relevant data protection authority. For the UK, this is the Information Commissioner's Office (ICO). The ICO's contact details can be found on their website at <https://ico.org.uk/>.
 It is important that the Data we hold about you is accurate and current. Please keep us informed if your Data changes during the period for which we hold it.
 
 ### Links to Other Websites
