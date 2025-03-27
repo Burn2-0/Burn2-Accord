@@ -24,6 +24,14 @@ Where everyone speaks Pig Latin and is required to wear a toga that they didn't 
 * [Burn2: Infrastructure Tenents](/Codex/burn2-tenet-infrastructure.md)
 * [Burn2: Estate Covenant](/Codex/burn2-covenant-estate.md)
 
+### Rangers
+
+* [Burn2: Rangers Manual](Rangers/Burn2_Rangers.md)
+* [Burn2: Rangers Manual Jan25 updates](Rangers/Burn2_Rangers_Jan25_Update.md)
+* [Burn2: Rangers Manual Summery of Updates](Rangers/Ranger_Manual_2025_updates.md)
+* [Burn2: Rangers Manual Talias Corrections](Rangers/Ranger_manual_Talias_corrections.md)
+
+
 ### [Drafts](/Draft/Drafts.md)
 
 * [Draft: Burn2 By-laws (Talia Variant)](/Draft/By-Laws-Talia/index.md)
